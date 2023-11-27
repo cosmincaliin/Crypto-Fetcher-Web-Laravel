@@ -1,6 +1,6 @@
 # Web Crypto Fetcher SelfHosted Laravel
 
-Made by @fransoliss @cosmincaliin
+Made by @fransoliss @RobyRew
 
 ## Installation Guide
 
