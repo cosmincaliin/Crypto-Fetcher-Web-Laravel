@@ -33,6 +33,13 @@ cmder will be refered as console
 - `composer install`
 - `php artisan migrate`
 
+##### If project needs npm run dev and fails install vite:
+> sh: vite: command not found
+
+- `npm install --save-dev vite`
+
+
+
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
